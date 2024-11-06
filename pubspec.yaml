@@ -6,10 +6,6 @@ repository: https://github.com/jacegem/flex_user_agent
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
-dependencies:
-  flutter:
-    sdk: flutter
-
 dev_dependencies:
   flutter_test:
     sdk: flutter

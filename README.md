@@ -41,5 +41,3 @@ void main() {
 
 - https://github.com/lhlyu/random_user_agents
 - https://github.com/intoli/user-agents
-# flex_user_agent
-# flex_user_agent
